@@ -8,7 +8,8 @@ The dashboard provides insights into sales, ratings, item distribution, outlet p
 - --
 ## 📷 Dashboard Preview
 
-![Blinkit Grocery Dashboard](Blinkit_Dashboard.png)
+
+![Blinkit Dashboard](Blinkit Dashboard.png)
 
 - --
 
