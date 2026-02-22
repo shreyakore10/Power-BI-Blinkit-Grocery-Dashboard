@@ -1,4 +1,4 @@
-🛒 Blinkit Grocery Dashboard – Power BI
+##🛒 Blinkit Grocery Dashboard – Power BI
 
 📊 An interactive Power BI dashboard analyzing Blinkit's grocery sales, item ratings, outlet performance, and product distribution.
 
@@ -16,11 +16,11 @@ Key Metrics:
 
 Dashboard Visuals:
 
--Count of Item Fat Content by Outlet Size – Bar chart comparing Low Fat vs Regular items across Small, Medium, and High outlet sizes.
--Sum of Sales by Items – Horizontal bar chart showing top-selling categories: Fruits & Vegetables, Snack Foods, Household, Frozen Foods, Dairy, Canned, and Baking Goods.
--Count of Item Fat Content by Outlet Type – Pie chart breaking down item distribution across Supermarket Type 1, Supermarket Type 2, and Grocery Stores.
--Count of Outlet Establishment Year by Items – Line/scatter chart showing historical outlet establishment trends by item category.
--Average Rating by Item Type – Horizontal bar chart ranking item categories by average customer rating.
+- Count of Item Fat Content by Outlet Size – Bar chart comparing Low Fat vs Regular items across Small, Medium, and High outlet sizes.
+- Sum of Sales by Items – Horizontal bar chart showing top-selling categories: Fruits & Vegetables, Snack Foods, Household, Frozen Foods, Dairy, Canned, and Baking Goods.
+- Count of Item Fat Content by Outlet Type – Pie chart breaking down item distribution across Supermarket Type 1, Supermarket Type 2, and Grocery Stores.
+- Count of Outlet Establishment Year by Items – Line/scatter chart showing historical outlet establishment trends by item category.
+- Average Rating by Item Type – Horizontal bar chart ranking item categories by average customer rating.
 
 Item Categories Covered:
 
