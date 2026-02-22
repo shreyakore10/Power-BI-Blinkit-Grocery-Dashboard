@@ -12,19 +12,19 @@ The dashboard provides insights into sales, ratings, item distribution, outlet p
 
 📊 Key Insights Covered
 
-✔️ Total Sales: 1M+ revenue generated
-✔️ Average Rating: 4.0 customer rating
-✔️ Total Items: 7K+ products analyzed
-✔️ Average Item Weight: 12.86
+- Total Sales: 1M+ revenue generated
+- Average Rating: 4.0 customer rating
+- Total Items: 7K+ products analyzed
+- Average Item Weight: 12.86
 
 📈 Dashboard Features
 
-🔹 Sales breakdown by Item Category
-🔹 Average rating by Item Type
-🔹 Item fat content distribution by Outlet Size
-🔹 Outlet type performance comparison
-🔹 Establishment year analysis
-🔹 Interactive filters:
+- Sales breakdown by Item Category
+- Average rating by Item Type
+- Item fat content distribution by Outlet Size
+- Outlet type performance comparison
+- Establishment year analysis
+- Interactive filters:
 
 🛠 Tools & Technologies Used
 
