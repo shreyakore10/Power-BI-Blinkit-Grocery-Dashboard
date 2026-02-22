@@ -9,7 +9,7 @@ The dashboard provides insights into sales, ratings, item distribution, outlet p
 ## 📷 Dashboard Preview
 
 
-![Blinkit Dashboard](Blinkit Dashboard.png)
+(Blinkit Dashboard.png)
 
 - --
 
