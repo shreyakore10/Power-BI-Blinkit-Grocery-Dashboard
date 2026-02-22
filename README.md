@@ -58,4 +58,3 @@ Fruits & Vegetables, Snack Foods, Household, Frozen Foods, Dairy, Canned Goods, 
 | Power BI Desktop | Dashboard creation & visualization |
 | Microsoft Excel / CSV | Data source |
 | DAX | Calculated measures & KPIs |
-
