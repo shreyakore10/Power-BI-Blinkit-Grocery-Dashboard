@@ -17,6 +17,8 @@ The dashboard provides insights into sales, ratings, item distribution, outlet p
 - Total Items: 7K+ products analyzed
 - Average Item Weight: 12.86
 
+ - ---
+
 📈 Dashboard Features
 
 - Sales breakdown by Item Category
@@ -25,6 +27,8 @@ The dashboard provides insights into sales, ratings, item distribution, outlet p
 - Outlet type performance comparison
 - Establishment year analysis
 - Interactive filters:
+
+- ---
 
 🛠 Tools & Technologies Used
 
