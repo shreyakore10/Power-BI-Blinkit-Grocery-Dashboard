@@ -10,47 +10,42 @@ The dashboard provides insights into sales, ratings, item distribution, outlet p
 
 ![Blinkit Grocery Dashboard](./blinkit_dashboard.png)
 
----
+📊 Key Insights Covered
 
-## 📊 Key Metrics
+✔️ Total Sales: 1M+ revenue generated
+✔️ Average Rating: 4.0 customer rating
+✔️ Total Items: 7K+ products analyzed
+✔️ Average Item Weight: 12.86
 
-| Metric | Value |
-|---|---|
-| 💰 Total Sales | 1M |
-| ⭐ Average Rating | 4 |
-| 📦 Total Items | 7K |
-| ⚖️ Average Item Weight | 12.86 |
+📈 Dashboard Features
 
----
+🔹 Sales breakdown by Item Category
+🔹 Average rating by Item Type
+🔹 Item fat content distribution by Outlet Size
+🔹 Outlet type performance comparison
+🔹 Establishment year analysis
+🔹 Interactive filters:
 
-## 📈 Dashboard Visuals
+🛠 Tools & Technologies Used
 
-- **Count of Item Fat Content by Outlet Size** – Bar chart comparing Low Fat vs Regular items across Small, Medium, and High outlet sizes.
-- **Sum of Sales by Items** – Horizontal bar chart showing top-selling categories: Fruits & Vegetables, Snack Foods, Household, Frozen Foods, Dairy, Canned, and Baking Goods.
-- **Count of Item Fat Content by Outlet Type** – Pie chart breaking down item distribution across Supermarket Type 1, Supermarket Type 2, and Grocery Stores.
-- **Count of Outlet Establishment Year by Items** – Line/scatter chart showing historical outlet establishment trends by item category.
-- **Average Rating by Item Type** – Horizontal bar chart ranking item categories by average customer rating.
+Power BI
 
----
+Data Modeling
 
-## 🗂️ Item Categories Covered
+DAX Measures
 
-Fruits & Vegetables, Snack Foods, Household, Frozen Foods, Dairy, Canned Goods, Baking Goods, Health & Hygiene, Soft Drinks, Meat, Breads, Hard Drinks, Others, Starchy Foods, Breakfast, Seafood.
+Data Cleaning & Transformation
 
----
+🎯 Business Objective
 
-## 🏪 Outlet Types Analyzed
+- To analyze grocery sales data and identify:
 
-- Supermarket Type 1 (79.27%)
-- Supermarket Type 2
-- Grocery Store (12.97%)
+- High-performing product categories
 
----
+- Outlet size impact on sales
 
-## 🔧 Tools & Technologies
+- Customer rating trends
 
-| Tool | Purpose |
-|---|---|
-| Power BI Desktop | Dashboard creation & visualization |
-| Microsoft Excel / CSV | Data source |
-| DAX | Calculated measures & KPIs |
+- Sales distribution patterns
+
+
