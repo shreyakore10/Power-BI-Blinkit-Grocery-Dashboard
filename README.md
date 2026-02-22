@@ -6,7 +6,7 @@
 This Power BI dashboard provides a comprehensive analysis of Blinkit's grocery data. It helps visualize key business metrics such as total sales, product ratings, outlet performance, and item category distribution — enabling data-driven decisions for inventory, marketing, and outlet management.
 
 ## Blinkit Grocery Dashboard
-![Blinkit Dashboard](./Blinkit Dashboard.png)
+![Blinkit Dashboard](Blinkit Dashboard.png)
 
 Key Metrics:
  - Total Sales: 1M
