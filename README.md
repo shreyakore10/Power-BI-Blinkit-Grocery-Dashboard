@@ -15,8 +15,11 @@ The dashboard provides insights into sales, ratings, item distribution, outlet p
 📊 Key Insights Covered :
 
 - Total Sales: 1M+ revenue generated
+ 
 - Average Rating: 4.0 customer rating
+ 
 - Total Items: 7K+ products analyzed
+  
 - Average Item Weight: 12.86
 
  -  --
