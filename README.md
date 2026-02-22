@@ -8,11 +8,12 @@ The dashboard provides insights into sales, ratings, item distribution, outlet p
 - --
 ## 📷 Dashboard Preview
 
+
 ![Blinkit Grocery Dashboard](Blinkit-Dashboard.png)
 
 - --
 
-📊 Key Insights Covered :
+# 📊 Key Insights Covered :
 
 - Total Sales: 1M+ revenue generated
  
@@ -24,7 +25,7 @@ The dashboard provides insights into sales, ratings, item distribution, outlet p
 
  -  --
 
-📈 Dashboard Features :
+# 📈 Dashboard Features :
 
 - Sales breakdown by Item Category
  
@@ -40,7 +41,7 @@ The dashboard provides insights into sales, ratings, item distribution, outlet p
   
  -  --
 
-🛠 Tools & Technologies Used :
+# 🛠 Tools & Technologies Used :
 
 - Power BI
 
@@ -52,7 +53,7 @@ The dashboard provides insights into sales, ratings, item distribution, outlet p
 
 - --
 
-🎯 Business Objective :
+# 🎯 Business Objective :
 
 - To analyze grocery sales data and identify:
 
