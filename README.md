@@ -1,6 +1,6 @@
 # 🛒 Blinkit Grocery Dashboard – POWER-BI
 
-##📌 Project Overview
+# 📌 Project Overview
 
 This project presents an interactive Power BI dashboard built to analyze Blinkit's grocery sales performance.
 The dashboard provides insights into sales, ratings, item distribution, outlet performance, and product categories.
