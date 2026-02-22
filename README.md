@@ -1,46 +1,55 @@
-# 🛒 Blinkit Grocery Dashboard – Power BI
+# 🛒 Blinkit Grocery Dashboard – POWER-BI
 
 📌 Project Overview
 
 This project presents an interactive Power BI dashboard built to analyze Blinkit's grocery sales performance.
 The dashboard provides insights into sales, ratings, item distribution, outlet performance, and product categories.
 
-
+--
 ## 📷 Dashboard Preview
 
 ![Blinkit Grocery Dashboard](./blinkit_dashboard.png)
 
-📊 Key Insights Covered
+--
+
+📊 Key Insights Covered :
 
 - Total Sales: 1M+ revenue generated
 - Average Rating: 4.0 customer rating
 - Total Items: 7K+ products analyzed
 - Average Item Weight: 12.86
 
- - ---
+  --
 
-📈 Dashboard Features
+📈 Dashboard Features :
 
 - Sales breakdown by Item Category
+ 
 - Average rating by Item Type
+ 
 - Item fat content distribution by Outlet Size
+ 
 - Outlet type performance comparison
+  
 - Establishment year analysis
+ 
 - Interactive filters:
+  
+  --
 
-- ---
+🛠 Tools & Technologies Used :
 
-🛠 Tools & Technologies Used
+- Power BI
 
-Power BI
+- Data Modeling
 
-Data Modeling
+- DAX Measures
 
-DAX Measures
+- Data Cleaning & Transformation
 
-Data Cleaning & Transformation
+  --
 
-🎯 Business Objective
+🎯 Business Objective :
 
 - To analyze grocery sales data and identify:
 
